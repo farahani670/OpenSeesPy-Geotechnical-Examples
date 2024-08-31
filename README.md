@@ -4,7 +4,7 @@
 This script simulates a 2D model of liquefiable soil using the OpenSeesPy framework. The model is designed to analyze the behavior of saturated loose sand under different loading conditions, incorporating material properties and boundary conditions relevant to geotechnical engineering.
 
 ## Author
-Eng. MohammadReza Jalali Farahani
+MohammadReza Jalali Farahani
 
 ## Requirements
 - Python
