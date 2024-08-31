@@ -20,7 +20,6 @@ import math
 import os
 import sys
 
-wipe()
 ```
 - Initializes the OpenSeesPy environment and wipes any previous models.
 
